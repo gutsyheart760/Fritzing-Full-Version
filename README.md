@@ -1,0 +1,1 @@
+# Fritzing-Full-Version
