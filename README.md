@@ -244,4 +244,4 @@ This repository serves as the official landing page for Fritzing. The software i
 **Get the most recent version of Fritzing today!**
 
 ---
-**Last updated:** 2026-09-16 22:42:18 UTC
+**Last updated:** 2026-09-17 01:08:17 UTC
